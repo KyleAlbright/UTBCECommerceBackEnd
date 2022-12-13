@@ -31,6 +31,7 @@ In this application you should be able to add your own data to create get, put, 
 
 Walkthrough Video - https://app.castify.com/view/8b9daedf-06e2-4156-9efa-f99b535d3bf1
 
+![Screenshot (51)](https://user-images.githubusercontent.com/110487869/207438216-e49435a8-36b9-4a88-9a13-a484a788775a.png)
 
 
 ### [Contributing](#table-of-contents)
