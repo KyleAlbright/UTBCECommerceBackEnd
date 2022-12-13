@@ -29,7 +29,9 @@ To install this application, please either download the zip file, or clone the r
 ### [Usage](#table-of-contents)
 In this application you should be able to add your own data to create get, put, delete, and post requests to the server. Please see the walkthrough video below for instructions on how to use this application. 
 
-Walkthrough Video - https://app.castify.com/view/8b9daedf-06e2-4156-9efa-f99b535d3bf1
+Walkthrough Video - https://app.castify.com/view/e9374750-ba18-48f2-99d0-b6d566ffdad7
+
+Github Repo - https://github.com/KyleAlbright/UTBCECommerceBackEnd
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/110487869/207438216-e49435a8-36b9-4a88-9a13-a484a788775a.png)
 

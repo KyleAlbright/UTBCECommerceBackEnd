@@ -3,7 +3,7 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint
 
-// I'm using most of the syntax we created in the mini-project for the ORM module. 
+// I'm using most of the syntax we created in the mini-project for the ORM module. This is repeated multiple times in all the routes. I dont like how the put & post route for this one is not try / catch. However I left it how it is,  since that is what was provided. I would've written it differently. 
 
 // get all products
 router.get('/', async (req, res) => {
