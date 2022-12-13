@@ -17,7 +17,7 @@
 Learn more about my [mit](https://choosealicense.com/licenses/mit) license. 
 
 ### [Description](#table-of-contents)
-In this project, we where asked to create a backend for an e-commerce site by modifying the starter code given to us. In this project we set up and configured a working Express.js API to use sequilize to  interact with a MySQL database. In order to test this application we hade to run this program locally (localhost:3001) and then test the routes individually. 
+In this project, we where asked to create a backend for an e-commerce site by modifying the starter code given to us. In this project we set up and configured a working Express.js API to use sequilize to interact with a MySQL database. In order to test this application we hade to run this program locally (localhost:3001) and then test the routes individually. 
 
 
 
@@ -27,7 +27,9 @@ To install this application, please either download the zip file, or clone the r
 
 
 ### [Usage](#table-of-contents)
-In this application you should be able to add your own data to create get, put, delete, and post requests to the server. Please see the walkthrough video for instructions on how to use this application. 
+In this application you should be able to add your own data to create get, put, delete, and post requests to the server. Please see the walkthrough video below for instructions on how to use this application. 
+
+Walkthrough Video - https://app.castify.com/view/8b9daedf-06e2-4156-9efa-f99b535d3bf1
 
 
 
